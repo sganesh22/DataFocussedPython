@@ -1,2 +1,2 @@
-# DataFocussedPython
-DFP final project
+# DataFocusedPython
+DFP final project - Course Recommender Systems
