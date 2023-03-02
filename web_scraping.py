@@ -5,7 +5,7 @@ Created on Thu Mar  2 18:08:19 2023
 @author: sanjana ganesh
 @author: prasiddha sudhakar
 @author: sanika hadatgune
-@author: sathiya narayanan c
+@author: sathiya narayan chakravarthy
 """
 
 import requests
